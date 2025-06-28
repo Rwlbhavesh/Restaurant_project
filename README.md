@@ -1,2 +1,2 @@
 # Restaurant_project
-This project for online order in restaurant, with type logic this code
+restaurant customer order end to end project with logic.
